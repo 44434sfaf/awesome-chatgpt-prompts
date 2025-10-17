@@ -47,14 +47,14 @@ We hope you find these prompts useful and have fun exploring AI chat models!
 ### Want to Write Effective Prompts?
 
 I've authored an e-book called **"The Art of ChatGPT Prompting: A Guide to
-Crafting Clear and Effective Prompts"**.
+Crafting Clear and Effective Prompts"**。
 
 📖 **[Read the e-book](https://fka.gumroad.com/l/art-of-chatgpt-prompting)**
 
 ### Want to Learn How to Make Money using ChatGPT Prompts?
 
 I've authored an e-book called **"How to Make Money with ChatGPT: Strategies,
-Tips, and Tactics"**.
+Tips, and Tactics"**。
 
 📖
 **[Buy the e-book](https://fka.gumroad.com/l/how-to-make-money-with-chatgpt)**
